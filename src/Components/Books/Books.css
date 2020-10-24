@@ -1,0 +1,27 @@
+.books{
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.row{
+    justify-content:space-evenly
+}
+img{
+    height: 130px;
+    padding: 20px 0;
+}
+.book__box{
+    text-align: center;
+    background-color: #F8FFFB;
+    padding: 45px;
+    height: 300px;
+    width:300px;
+}
+.book__box:hover {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+h4{
+    font-size:40px;
+}

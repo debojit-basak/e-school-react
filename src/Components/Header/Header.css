@@ -1,0 +1,32 @@
+.header{
+    display:flex;
+    align-items:center;
+    background-color:#F0FFF0 ;
+    justify-content: space-evenly;
+    margin-bottom:0px;
+    position:sticky;
+    top: 0;
+}
+.header__items{
+    display: flex;
+
+    
+}
+.header__image{
+    height: 70px;
+    padding:5px
+}
+.nav__link{
+    padding: 20px;
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0 10px;
+    text-decoration: none;
+    color:#444444;
+}
+.nav__link:hover{
+    color:white;
+    background-color: green;
+    border-radius: 50px;
+
+}

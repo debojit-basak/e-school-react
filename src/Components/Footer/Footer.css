@@ -1,0 +1,27 @@
+.footer{
+    margin-top:100px;
+    color: white;
+    background-color: #282531;
+    height: fit-content;
+}
+.footer__bottom{
+    text-align: center;
+}
+.footer__right{
+    justify-content: space-evenly;
+}
+.footer-h{
+    font-size:17px;
+}
+.footer-item{
+    text-align: flex-end;
+}
+ul{
+    padding:10px;
+}
+.footer__top{
+    margin-bottom: 1px solid white;
+}
+.footer-h{
+    text-align: flex-start;
+}
